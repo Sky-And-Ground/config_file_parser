@@ -1,0 +1,5 @@
+ip               = 192.168.52.114
+start_port       = 0
+end_port         = 65535
+thread_pool_size = 256
+timeout_millisec = 2000
